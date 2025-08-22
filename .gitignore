@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Environment files
+.env
+.env.*
+
+# Conda environment folders (if ever created inside project)
+.conda/
+
+# Test and coverage outputs
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+
+# Pytest cache
+.pytest_cache/
+
+# Ignore local data files
+*.sqlite3
+*.db
+*.h5
+*.hdf5
+*.log
+*.csv
+*.tsv
+*.dat
+*.tmp
+*.bak
+*.swp
+
+# Ignore virtual environments (if ever used)
+.venv/
+venv/
+ENV/
